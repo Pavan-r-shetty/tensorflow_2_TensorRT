@@ -1,0 +1,1 @@
+This repository provides tools for converting a TensorFlow model into ONNX and TensorRT formats, with options for quantization to achieve a faster and more compact model. The same approach can be applied to convert PyTorch models.
